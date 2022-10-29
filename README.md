@@ -68,9 +68,3 @@ $ python adgenerator.py -seclev low/medium/high
 * `about`: View information about the version of the software
 * `update`: Check for updates 
 * `exit` - Exit
-
-### View generated graph models
-
-The generated graph models are available at `http://localhost:7474/`, where we can execute Cypher queries for generating graphs. Here, [some examples of Cypher queries](./docs/cypher_queries.md).
-
-![Neo4j Web Interface](./img/neo4j.png)
