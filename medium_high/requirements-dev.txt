@@ -1,0 +1,9 @@
+requests
+twine
+pytest
+coverage
+pytest-cov
+
+neo4j
+tabulate
+
